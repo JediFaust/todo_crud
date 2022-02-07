@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991059365020",
+    "project_id": "todo-crud-4e9ec",
+    "storage_bucket": "todo-crud-4e9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991059365020:android:4ec05cd07b8b1272b1b159",
+        "android_client_info": {
+          "package_name": "com.jediprod.todo_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991059365020-ancgre89jg3qsdr0inqqbb171updhhru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoo24f4LJrTWgfm3s2wB8ufwaOqSm533M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991059365020-ancgre89jg3qsdr0inqqbb171updhhru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
